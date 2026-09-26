@@ -26,7 +26,8 @@ Java | Object-Oriented | Design Greenfoot
 🛠️ Skills & Tools
 Languages: Java · Python · SQL Data & Visualization: Pandas · Matplotlib/Seaborn · Streamlit Systems & Networking: Cyber Security fundamentals · System Administration · OSI model & core protocols · VirtualBox Cloud: Microsoft Azure · AWS (coursework/exposure) AI/APIs: Anthropic Claude API, LLM tool-use / function-calling
 
-📫 Let's Connect
+📫 Let's Connect:
+
 LinkedIn: linkedin.com/in/terrance-dessaure-3837043b3
 Email: terrancedessaure05@gmail.com
 
